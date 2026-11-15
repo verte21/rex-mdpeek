@@ -1,0 +1,9 @@
+Bundled Open-Source Fonts in assets/fonts/
+
+1. Roboto-Regular.ttf, Roboto-Bold.ttf
+   Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto)
+   Licensed under the Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+
+2. FiraCode-Regular.ttf
+   Copyright (c) 2014 Nikita Prokopov (https://github.com/tonsky/FiraCode)
+   Licensed under the SIL Open Font License, Version 1.1 (https://openfontlicense.org)
